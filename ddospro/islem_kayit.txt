@@ -1,0 +1,1 @@
+yapılan işlemleri kayıt eder.
